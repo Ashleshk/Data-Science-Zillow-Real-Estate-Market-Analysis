@@ -61,7 +61,7 @@ Performed Data Wrangling, Data preprocessing, Visualization and Analysis to pred
 ![compare1](https://github.com/Ashleshk/Data-Science-Zillow-Real-Estate-Market-Analysis/blob/main/screenshot/22.png)
 
 ### Regression Pipeline
-![reg](hhttps://github.com/Ashleshk/Data-Science-Zillow-Real-Estate-Market-Analysis/blob/main/screenshot/23.png)
+![reg](https://github.com/Ashleshk/Data-Science-Zillow-Real-Estate-Market-Analysis/blob/main/screenshot/23.png)
 
 ### Correlation Heat Map
 ![corr](https://github.com/Ashleshk/Data-Science-Zillow-Real-Estate-Market-Analysis/blob/main/screenshot/24.png)
