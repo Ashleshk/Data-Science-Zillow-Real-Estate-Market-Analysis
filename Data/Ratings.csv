@@ -1,0 +1,53 @@
+city,Livability,Cost of Living,Crime,Employment,Housing,Schools,User Ratings,Amenities
+Alameda,76,F,C,B,B-,B+,A-,A+
+Alamo,82,F,A,A+,D,A+,A+,B
+Atherton,78,F,A-,A+,D,A+,C-,A+
+Belmont,81,F,A-,A,C-,A+,B,A+
+Berkeley,64,F,F,B-,D,B-,C+,A+
+Burlingame,82,F,D+,A,B,A+,A+,A+
+Campbell,77,F,C,A-,B-,B-,A,A+
+Castro Valley,74,F,B-,B-,D+,B+,A,A+
+Cupertino,85,F,A,A-,C+,A+,A-,A+
+Daly City,68,F,B+,C,C-,F,C+,A+
+Danville,86,F,A+,A+,D,A+,A+,A+
+Dublin,84,F,B+,A,C,A+,A+,A+
+El Cerrito,67,F,F,B+,C+,D+,A-,A+
+Fremont,78,F,B+,B+,C+,A+,C+,A+
+Half Moon Bay,73,F,A,A-,C-,C,C-,A+
+Hayward,61,F,D+,C-,C-,F,C+,A+
+Lafayette,87,F,A+,A+,C-,A+,A+,A+
+Los Altos,87,F,A+,A+,D+,A+,A+,A+
+Los Gatos,87,F,A+,A,C,A+,A+,A+
+Menlo Park,80,F,B+,A+,C+,B-,A,A+
+Mill Valley,86,F,A,A+,C,A+,A+,A+
+Millbrae,82,F,A,B+,C,A-,A+,A+
+Milpitas,75,F,B,B-,C-,B,A-,A+
+Mountain View,82,F,C+,A-,B+,A-,A+,A+
+Newark,63,F,C+,B-,C-,D-,A+,D+
+Oakland,50,F,F,D+,C-,F,D-,A+
+Orinda,80,F,A+,A+,F,A+,A+,A-
+Pacifica,77,F,A-,A-,C-,B-,A+,A+
+Palo Alto,82,F,B-,A+,C+,A+,B+,A+
+Pleasanton,83,F,A-,A,C-,A+,A,A+
+Redwood City,73,F,B+,B+,C+,D-,B,A+
+Richmond,53,F,F,D,C-,F,C-,A+
+San Bruno,71,F,C-,B,C+,D+,A-,A+
+San Carlos,85,F,A,A,C-,A+,A+,A+
+San Francisco,64,F,F,B+,B+,D+,D,A+
+San Francisco,64,F,F,B+,B+,D+,D,A+
+San Jose,67,F,D,C+,C-,D,C+,A+
+San Leandro,55,F,F,C,C-,F,D,A+
+San Lorenzo,63,F,D-,C,C-,F,B,A+
+San Mateo,74,F,B-,B+,C+,C,B,A+
+San Pablo,48,F,F,F,F,F,F,A+
+San Rafael,64,F,D,B,D,D,C-,A+
+San Ramon,86,F,A+,A,C-,A+,A+,A+
+Santa Clara,74,F,C-,B+,B,C,B-,A+
+Saratoga,87,F,A+,A+,D+,A+,A+,A+
+Sausalito,77,F,C,A-,B,C-,A+,A+
+South San Francisco,68,F,B-,C+,C,D-,C+,A+
+Stinson Beach,71,F,A,A+,D,A+,N/A,F
+Sunnyvale,79,F,B,B+,B,B,B+,A+
+Tiburon,84,F,A+,A+,C,A+,N/A,A+
+Union City,64,F,C-,C+,C-,D-,C,A+
+Walnut Creek,78,F,C-,B+,C-,A+,A,A+
